@@ -385,10 +385,6 @@ model.evaluate(test_generator)
     Found 1000 images belonging to 2 classes.
     50/50 [==============================] - 3s 52ms/step - loss: 0.9935 - acc: 0.7390
 
-
-
-
-
     [0.9935357570648193, 0.7390000224113464]
 
 
@@ -862,10 +858,6 @@ model.evaluate(test_generator)
 
     Found 1000 images belonging to 2 classes.
     50/50 [==============================] - 3s 51ms/step - loss: 0.4608 - acc: 0.7950
-
-
-
-
 
     [0.46075958013534546, 0.7950000166893005]
 
