@@ -4,8 +4,6 @@ Dans ce **notebook** nous allons voir comment utiliser la **Data Augmentation** 
 
 Nous allons **utiliser notre modèle** pour classifier **des images de chiens et de chats** bien qu'il soit utilisable sur n'importe quel **jeu de données**.
 
-Le **code complet** est disponible sur **GitHub** [à cet adresse](https://github.com/tkeldenich/Computer_Vision_CNN_DataAugmentation.git).
-
 L'**objectif** de ce notebook est de créer un modèle de **Deep Learning** capable de repérer sur une image un chien ou un chat. Le modèle aura seulement **deux types de réponse** : 'chien' ou 'chat', c'est donc une **classification binaire**.
 
 Nous allons prendre un **petit jeu de donnés** (4000 images) intentionnellement pour que le modèle ne soit pas optimal. Cela nous permettra de voir comment **améliorer notre modèle** malgré cette contrainte.
