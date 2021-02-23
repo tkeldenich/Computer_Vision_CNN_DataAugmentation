@@ -389,7 +389,7 @@ model.evaluate(test_generator)
 
 **La précision est de 0.74**, les perfomances sont bonnes mais pas exceptionnelles.
 
-**Pas de soucis néanmoins, on peut améliorer notre modèle !**
+**Pas de soucis, on peut améliorer notre modèle !**
 
 # **Contourner l'overfitting**
 
