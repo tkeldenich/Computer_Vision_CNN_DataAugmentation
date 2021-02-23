@@ -25,10 +25,10 @@ Le **fichier** contenant nos images **se trouve** sur [Github](https://github.co
 
 
 ```
-!git clone https://github.com/tkeldenich/Image_Recognition_CNN_DataAugmentation.git
+!git clone https://github.com/tkeldenich/Computer_Vision_CNN_DataAugmentation.git
 ```
 
-    Cloning into 'Image_Recognition_CNN_DataAugmentation'...
+    Cloning into 'Computer_Vision_CNN_DataAugmentation'...
     remote: Enumerating objects: 4, done.[K
     remote: Counting objects: 100% (4/4), done.[K
     remote: Compressing objects: 100% (4/4), done.[K
@@ -42,7 +42,7 @@ On **dézip** le fichier :
 ```
 from zipfile import ZipFile
 
-with ZipFile('/content/Image_Recognition_CNN_DataAugmentation/images.zip', 'r') as zipObj:
+with ZipFile('/content/Computer_Vision_CNN_DataAugmentation/images.zip', 'r') as zipObj:
    zipObj.extractall('images')
 ```
 
